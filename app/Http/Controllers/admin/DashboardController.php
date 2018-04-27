@@ -18,7 +18,7 @@ use App\User;
 /**
  * Description of UsersController
  *
- * @author pyugma
+ * @author rp
  */
 class DashboardController extends Controller
 {

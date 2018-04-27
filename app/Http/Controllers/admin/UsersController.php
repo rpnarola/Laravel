@@ -34,7 +34,6 @@ class UsersController extends Controller
      */
     public function index()
     {
-        echo Hash::make('rahul');
         return view('admin/login');
     }
 

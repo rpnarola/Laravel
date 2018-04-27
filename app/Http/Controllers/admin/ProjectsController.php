@@ -15,7 +15,7 @@ use \Illuminate\Support\Facades\Session;
 /**
  * Description of ProjectsController
  *
- * @author pyugma
+ * @author rp
  */
 class ProjectsController extends Controller
 {
